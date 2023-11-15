@@ -2,3 +2,6 @@ Math Solver
 An application capable of doing the operations of: sum, multiplication, substract and division.
 I used a lot of regex in this project.
 
+I unit tested the parse function with JEST.
+
+For JEST to understand the import syntax I transpile my code with babel first

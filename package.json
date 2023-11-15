@@ -1,0 +1,25 @@
+{
+  "name": "math-solver",
+  "version": "1.0.0",
+  "description": "Math Solver\r An application capable of doing the operations of: sum, multiplication, substract and division.\r I used a lot of regex in this project.",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcoantonetti/Math-Solver---test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcoantonetti/Math-Solver---test/issues"
+  },
+  "homepage": "https://github.com/marcoantonetti/Math-Solver---test#readme",
+  "devDependencies": {
+    "@babel/core": "^7.23.3",
+    "@babel/preset-env": "^7.23.3",
+    "jest": "^29.7.0"
+  }
+}
